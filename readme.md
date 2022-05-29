@@ -1,6 +1,6 @@
 # [containerd](https://containerd.io/) Examples with [Visual Studio Code](https://code.visualstudio.com/)
 
-Platform-agnostic System Container Orchestration with the [Open Container Initiative (OCI)](https://opencontainers.org/). Like [Docker](https://www.docker.com/), but good because it's open and runs everywhere.
+Platform-agnostic system container orchestration with the [Open Container Initiative (OCI)](https://opencontainers.org/). Like [Docker](https://www.docker.com/), but good because it's open and runs everywhere.
 
 ## Requirements
 
