@@ -4,7 +4,7 @@ Platform-agnostic system container orchestration with the [Open Container Initia
 
 ## Requirements
 
-[Get and install Visual Studio Code](https://code.visualstudio.com/download) (or [Code OSS](https://github.com/microsoft/vscode)), available for Windows, macOS, Linux and FreeBSD, and the [VSCode EditorConfig extension](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig).
+[Get and install Visual Studio Code](https://code.visualstudio.com/download) or [VSCodium](https://vscodium.com/#install), available for Windows, macOS, Linux and FreeBSD, and the [VSCode EditorConfig extension](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig).
 
 - Get [containerd](https://github.com/containerd/containerd) and install [nerdctl](https://github.com/containerd/nerdctl), available for Windows, macOS, Linux and FreeBSD.
 
